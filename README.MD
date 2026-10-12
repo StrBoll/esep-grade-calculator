@@ -14,7 +14,8 @@ The final grade would be calculated by multiplying the average from each categor
 
 Let's say the student has a 300/500 for Assignment, a 450/500 for Exams, and a 300/300 for Essays. 
 
-(300/500 x 0.30) + (450/500 x 0.35) + (300/300 x 0.30) = 0.795 or essentially a 79.5%. 
+(300/500 x 0.50) + (450/500 x 0.35) + (300/300 x 0.15) = 0.765 or essentially a 76.5%. 
+
 
 The letter grades are as follows:
 
@@ -26,6 +27,8 @@ F < 60
 
 Passing requires a C or better. 
 
+
+A 76.5 would therefore be translated as a C, passing grade. 
 
 Runtime requirements:
 Golang 1.24+
